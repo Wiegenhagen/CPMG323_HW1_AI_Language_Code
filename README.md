@@ -1,4 +1,4 @@
-# DEVELOPMENT CPMG323_HW1_AI_Language_Code
+# PRODUCTION CPMG323_HW1_AI_Language_Code
 Inappropriate language Detection project for AI subject. I used an exsiting model  that was created by Nicholas Renotte.  
 With the amount of social applications on the internet you are going to come across comments, tweets or messages containg some form of hate or inappropriate language. Most people will just ignore it but it becomes a problem
 when children are exposed to these kind of comments. Most applications will implement an algorithm (model) to detect certain words or phrases and depending on the algorithm will either change, hide or remove them. 
